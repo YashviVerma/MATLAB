@@ -1,3 +1,3 @@
-# Equation solving in matlab
-The program helps to solve multi-variable algebraic system of equations.
-Feel free to suggest some changes.
+### Problem Statement:
+Calculate the values of all the variables in given system of equation.
+Find eigen values and eigen vectors of co-efficient matrix A.
